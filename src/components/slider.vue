@@ -1,7 +1,7 @@
 <template>
   <div class="right slider">
     <img class="right-logo"
-         src="../assets/userLogo.jpeg"
+         src="../assets/userLogo.jpg"
          alt="">
     <div class="title">夜尽天明</div>
     <div class="right-content">

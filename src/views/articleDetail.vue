@@ -9,7 +9,7 @@
           <div class="author">
             <div class="avatar">
               <img class="auth-logo"
-                   src="../assets/userLogo.jpeg"
+                   src="../assets/userLogo.jpg"
                    alt="BiaoChenXuYing">
             </div>
             <div class="info">

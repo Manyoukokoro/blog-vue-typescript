@@ -9,19 +9,19 @@ export const urls: object = {
   addThirdComment: "addThirdComment",
   getCommentList: "getCommentList",
 
-  getArticleList: "getArticleList",
-  likeArticle: "likeArticle",
-  getArticleDetail: "getArticleDetail",
+  getArticleList: "article/getList",
+  likeArticle: "article/like",
+  getArticleDetail: "article/getDetail",
 
-  addMessage: "addMessage",
-  getMessageList: "getMessageList",
-  getMessageDetail: "getMessageDetail",
+  addMessage: "message/add",
+  getMessageList: "message/getList",
+  getMessageDetail: "message/getDetail",
 
-  getLinkList: "getLinkList",
+  getLinkList: "link/getList",
 
-  getTagList: "getTagList",
+  getTagList: "tag/getList",
 
-  getCategoryList: "getCategoryList",
+  getCategoryList: "category/getList",
 
   getTimeAxisList: "getTimeAxisList",
   getTimeAxisDetail: "getTimeAxisDetail",

@@ -6,7 +6,7 @@
         <router-link class="link"
                      to="/home">
           <img class="home-logo"
-               src="../assets/userLogo.jpeg"
+               src="../assets/userLogo.jpg"
                alt="biaochenxuying logo" />
         </router-link>
       </div>
